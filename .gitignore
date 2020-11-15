@@ -1,0 +1,9 @@
+/logs
+/dataset
+~/dataset/.gitkeep
+/mapillary*
+/models
+~/models/.gitkeep
+/*.txt
+/*.uff
+/*.pb
